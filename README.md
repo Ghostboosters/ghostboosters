@@ -1,2 +1,2 @@
-# ghostboosters
-Repository of design elements for GhostBoosters, a Rocket League team
+# Ghostboosters
+Repository of design elements for Ghostboosters, a Rocket League community.
